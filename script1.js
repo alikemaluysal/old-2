@@ -1,4 +1,3 @@
-//Merhaba
 (function($){
 
     let uuidv4 = () => {
